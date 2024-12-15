@@ -1,17 +1,28 @@
-target/
-pom.xml.tag
-pom.xml.releaseBackup
-pom.xml.versionsBackup
-pom.xml.next
-release.properties
-dependency-reduced-pom.xml
-buildNumber.properties
-.mvn/timing.properties
-# https://github.com/takari/maven-wrapper#usage-without-binary-jar
-.mvn/wrapper/maven-wrapper.jar
+./binpicking-orchestrator/HELP.md
+./binpicking-orchestrator/.gradle
+./binpicking-orchestrator/build/
+./binpicking-orchestrator/!gradle/wrapper/gradle-wrapper.jar
+./binpicking-orchestrator/!**/src/main/**/build/
+./binpicking-orchestrator/!**/src/test/**/build/
 
-# Eclipse m2e generated files
-# Eclipse Core
-.project
-# JDT-specific (Eclipse Java Development Tools)
-.classpath
+### STS ###
+./binpicking-orchestrator/.apt_generated
+./binpicking-orchestrator/.classpath
+./binpicking-orchestrator/.factorypath
+./binpicking-orchestrator/.project
+./binpicking-orchestrator/.settings
+./binpicking-orchestrator/.springBeans
+./binpicking-orchestrator/.sts4-cache
+./binpicking-orchestrator/bin/
+./binpicking-orchestrator/!**/src/main/**/bin/
+./binpicking-orchestrator/!**/src/test/**/bin/
+
+### IntelliJ IDEA ###
+./binpicking-orchestrator/.idea
+./binpicking-orchestrator/*.iws
+./binpicking-orchestrator/*.iml
+./binpicking-orchestrator/*.ipr
+./binpicking-orchestrator/out/
+./binpicking-orchestrator/!**/src/main/**/out/
+./binpicking-orchestrator/!**/src/test/**/out/
+
