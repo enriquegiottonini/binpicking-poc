@@ -1,28 +1,26 @@
-./binpicking-orchestrator/HELP.md
-./binpicking-orchestrator/.gradle
-./binpicking-orchestrator/build/
-./binpicking-orchestrator/!gradle/wrapper/gradle-wrapper.jar
-./binpicking-orchestrator/!**/src/main/**/build/
-./binpicking-orchestrator/!**/src/test/**/build/
-
-### STS ###
-./binpicking-orchestrator/.apt_generated
-./binpicking-orchestrator/.classpath
-./binpicking-orchestrator/.factorypath
-./binpicking-orchestrator/.project
-./binpicking-orchestrator/.settings
-./binpicking-orchestrator/.springBeans
-./binpicking-orchestrator/.sts4-cache
-./binpicking-orchestrator/bin/
-./binpicking-orchestrator/!**/src/main/**/bin/
-./binpicking-orchestrator/!**/src/test/**/bin/
-
-### IntelliJ IDEA ###
-./binpicking-orchestrator/.idea
-./binpicking-orchestrator/*.iws
-./binpicking-orchestrator/*.iml
-./binpicking-orchestrator/*.ipr
-./binpicking-orchestrator/out/
-./binpicking-orchestrator/!**/src/main/**/out/
-./binpicking-orchestrator/!**/src/test/**/out/
+.binpicking-orchestrator/HELP.md
+.binpicking-orchestrator/.gradle
+.binpicking-orchestrator/build/
+.binpicking-orchestrator/!gradle/wrapper/gradle-wrapper.jar
+.binpicking-orchestrator/!**/src/main/**/build/
+.binpicking-orchestrator/!**/src/test/**/build/
+## STS ###
+.binpicking-orchestrator/.apt_generated
+.binpicking-orchestrator/.classpath
+.binpicking-orchestrator/.factorypath
+.binpicking-orchestrator/.project
+.binpicking-orchestrator/.settings
+.binpicking-orchestrator/.springBeans
+.binpicking-orchestrator/.sts4-cache
+.binpicking-orchestrator/bin/
+.binpicking-orchestrator/!**/src/main/**/bin/
+.binpicking-orchestrator/!**/src/test/**/bin/
+## IntelliJ IDEA ###
+.binpicking-orchestrator/.idea
+.binpicking-orchestrator/*.iws
+.binpicking-orchestrator/*.iml
+.binpicking-orchestrator/*.ipr
+.binpicking-orchestrator/out/
+.binpicking-orchestrator/!**/src/main/**/out/
+.binpicking-orchestrator/!**/src/test/**/out/
 
